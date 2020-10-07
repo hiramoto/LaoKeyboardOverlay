@@ -4,4 +4,4 @@
 キーボードの画像は常に最前面に表示されます。スライドバーで透過度を調整することができます。  
 releaseフォルダからZIPファイルをダウンロードし、インストールを行ってください。  
 
-[![Image from Gyazo](https://i.gyazo.com/4fa3b3c77cc454ac90fb342d113e2edf.png)](https://gyazo.com/4fa3b3c77cc454ac90fb342d113e2edf)
+![Image from Gyazo](https://i.gyazo.com/4fa3b3c77cc454ac90fb342d113e2edf.png)
